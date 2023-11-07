@@ -2,12 +2,17 @@ body {
     
 }
 
+#banner {
+    width: 100%;
+}
+
 h1 {
     style="text-align: center;"
 }
 
 .principal{
     background: #CCCCCC;
+    padding: 30px;
 }
 
 p {
