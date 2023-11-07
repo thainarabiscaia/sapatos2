@@ -28,6 +28,7 @@ em strong {
 
 .beneficios {
     background: #FFFFFF;
+    padding: 20px;
 }
 
 h2 {
@@ -36,6 +37,9 @@ h2 {
 
 ul {
     display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
 
 .imagembeneicios {
